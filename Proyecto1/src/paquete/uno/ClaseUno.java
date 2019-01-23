@@ -9,6 +9,14 @@ public class ClaseUno {
 		}
 		for (int i = colores.length - 1; i >= 0; i--) {
 			System.out.println(colores[i]);
+			System.out.println("POJOLAND");
+			System.out.println("POJOLAND");
+			System.out.println("POJOLAND");
+			System.out.println("POJOLAND");System.out.println(colores[i]);
+			System.out.println("POJOLAND");
+			System.out.println("POJOLAND");
+			System.out.println("POJOLAND");
+			System.out.println("POJOLAND");
 		}
 
 	}
